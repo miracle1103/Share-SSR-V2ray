@@ -12,8 +12,7 @@
 
 
 - [上网方式](#上网方式)
-        - [0. 稳定高速机场推荐](#1-稳定高速机场推荐)
-	- [1. 直连网站](#1-直连网站)
+        - [1. 稳定高速机场推荐](#1-稳定高速机场推荐)
 	- [2. 镜像网站](#2-镜像网站)
 	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
 	- [4. 浏览器插件](#4-浏览器插件)
@@ -27,8 +26,9 @@
 
 ### 💻上网方式
 
-#### 0. 稳定高速机场推荐
+#### 1. 稳定高速机场推荐
 
+具体完整介绍：https://dlj.tf/Cwo2zk
 
 一、稳定高速机场：
 
@@ -44,30 +44,80 @@
 
 布丁: v2ray机场，128G/88块/年，每个月流量等套餐。 有一块钱试用的套餐，可以先试试水感受感受再决定买不买：http://bit.ly/2VTMMcL
 
-具体查看：https://dlj.tf/Cwo2zk ;包含免费白嫖机场推荐。
+具体查看：https://dlj.tf/Cwo2zk ;
+
+包含免费白嫖机场推荐：
+
+三、免费机场/白嫖机场 ：
+
+免费节点不适合长时间使用，但是可以用来过渡打开暂时打不开的网站
+
+付费的机场也会有免费节SS/SSR点使用：
+
+速鹰666 ：http://dlj.tf/bkFUpq ；付费节点9块/100G/月起
+
+孤岛养鸡场 : http://dlj.tf/yCVgLQ ；付费的88GB/15.9块/月起
+
+糖果屋 ：http://www.52ss.club/
+
+DripCloud :https://dripcloud.net/
+
+闪电 ：http://dlj.tf/gDlOUx ;付费节点也挺便宜的
+
+good.mebi.me ：https://good.mebi.me
+
+sheepcloud ：https://www.sheepcloud.me/
+
+https://shadowsocks-share.herokuapp.com/
+
+https://www.ssrshare.com/
+
+中二病 ,https://zhoerbing.com/user
+
+kiki ：https://kiki666.com ，纯白嫖
+
+Eiz ：只有两条线， https://portal.eiz.me/
+
+司徒云 ： 中转线路，白嫖的某些节点无限流量的 https://situcloud.xyz
+
+星梦数据： https://hualuows.xyz/
+
+道长加速云 ： dzjs1.xyz/
+
+tan90 ： 比较冷门 https://tan90.best/auth/register?code=9OIj
+
+青青草原灰太狼 ： 白嫖俄罗斯节点 https://4312ru.xyz/auth/register?code=s5Zv
+
+需要先翻墙才打得开或者看得到：
+
+几鸡 ：https://ji-ag.pw/waf/ojZb2 ,每月初始10G流量，每天签到0.8~5GB
+
+neuk : https://neukssr.club/auth/register?code=0EDM
+
+free-ss ：https://free-ss.site
+
+https://lncn.org/
+
+https://www.ssrtool.com/tool/free_ssr
+
+http://ss.pythonic.life/full
+
+https://www.youneed.win/free-ssr
+
+
+白嫖免费机场telegram消息群：
+
+https://t.me/baipiaohao
+
+https://t.me/QBMWW
+
+可以直接打开：
+https://fanqiang.network/
 
 
 
 
-#### 1. 🥒直连
 
-> 以下工具可在临时网盘中获取
-
-[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
-
-[龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
-
-[Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
-
----
-
-打开网站即可使用，可以访问所有的站点：
-
-[jsproxy](https://gamedun.github.io/)：【推荐】
-
-[jsproxy1](https://proxy.fan.workers.dev/)
-
----
 
 #### 2. 🍆镜像网站
 
@@ -131,9 +181,10 @@
 
 [Windows](SSR/11-windows-setup-guide-cn.md)  |  [macOS](SSR/12-macos-setup-guide-cn.md)  |  [iOS](SSR/13-ios-setup-guide-cn.md)  |  [Android](SSR/14-android-setup-guide-cn.md)  |  [Linux](SSR/15-linux-setup-guide-cn.md)
 
-#### V2ray 使用教程
+#### clash 使用教程
 
-TODO
+参考：https://dlj.tf/dJL8Ux
+
 
 #### 其它教程
 
