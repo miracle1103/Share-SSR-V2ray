@@ -36,7 +36,7 @@
 
 本人主用2.YTOO:v2ray全中转机场，也有ss节点，目前用着很好,倍率0.2和0.6都有，40条线路左右，稳定且速度一流：http://bit.ly/3cDTPfD
 
-3.bywave:中继和iplc，v2ray机场,25块50G起，目前有89折优惠码WUHAN + 充值送活动；叠加优惠后年付50G的大概17/月。目前人数不多：https://bit.ly/2xEzJlc
+3.bywave:中继和iplc，v2ray机场,25块50G起，目前有89折优惠码WUHAN + 充值送活动；叠加优惠后年付50G的大概17/月。目前人数不多：https://dlj.tf/TDOEXd
 
 4.奶瓶 ：400G/25块/月,300G/45季度等。适合流量需求大的。主要是ssr，提供Trojan节点,据说价格，流量，稳定相对平衡。官网：http://dlj.tf/ivRcrE
 
@@ -163,11 +163,6 @@ https://fanqiang.network/
 
 ---
 
-### 工具下载
-
-[工具下载](tools.md)
-
-
 
 ---
 
@@ -186,17 +181,6 @@ https://fanqiang.network/
 参考：https://dlj.tf/dJL8Ux
 
 
-#### 其它教程
-
-[Firefox Quantum 设置教程 (Proxy SwitchyOmega)](Other/7-1-firefox-setup-guide-cn.md)
-
-[Chrome 设置教程 (Proxy SwitchyOmega) ](Other/7-2-chrome-setup-guide-cn.md)  
-
-[Proxifier 设置教程](Other/8-proxifier-settings.md)
-
-[设置自定义 DNS 服务器](Other/9-dns-setup-guide-cn.md)
-
----
 
 如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
 
